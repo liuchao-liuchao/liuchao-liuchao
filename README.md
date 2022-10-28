@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm liuchao</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h3 align="left">I am a Versatilist, doing Golang Backend development Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
