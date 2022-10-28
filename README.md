@@ -162,5 +162,5 @@
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[issues page]: https://github.com/liuchao-liuchao/liuchao-liuchao/issues "liuchao-liuchao/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
