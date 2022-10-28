@@ -22,7 +22,7 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: &nbsp;I'm currently working at **[中国]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Golang bottom layer** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
