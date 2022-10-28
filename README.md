@@ -161,6 +161,6 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
+[84.51°]: https://github.com/liuchao-liuchao "liuchao Github Home"
 [issues page]: https://github.com/liuchao-liuchao/liuchao-liuchao/issues "liuchao-liuchao/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.cn/incareer/in/ACoAADDFgFcBP4ATXbimRX1Kzgwqe8Ea-VRuQbA "了凡 LinkedIn"
