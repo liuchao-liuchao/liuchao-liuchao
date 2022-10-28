@@ -54,6 +54,18 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./img/java-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Csharp
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
@@ -81,12 +93,6 @@
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr>
   <tr>
