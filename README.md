@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm liuchao</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm liaofan</h1>
 <h3 align="left">I am a Versatilist, doing Golang Backend development Engineering things</h3>
 
 <p align="left">
@@ -48,6 +48,6 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/liuchao-liuchao "liuchao Github Home"
-[issues page]: https://github.com/liuchao-liuchao/liuchao-liuchao/issues "liuchao-liuchao/issues"
+[84.51°]: https://github.com/liaofan-liaofan "liaofan Github Home"
+[issues page]: https://github.com/liaofan-liaofan/liaofan-liaofan/issues "liaofan-liaofan/issues"
 [linkedin]: https://www.linkedin.cn/incareer/in/ACoAADDFgFcBP4ATXbimRX1Kzgwqe8Ea-VRuQbA "了凡 LinkedIn"
